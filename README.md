@@ -1,4 +1,3 @@
-# Project-For-C
+Salary calculation
 
-裡面是C語言的各式例題
-HOPE U ENJOY =)
+輸入薪資即可
